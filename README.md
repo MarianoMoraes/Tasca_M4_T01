@@ -1,24 +1,20 @@
-# Tasca_M4_T01
+# Matplotlib and Seaborn
+
+- Exercise 1
+Download the attached dataset price per quarter and neighborhood.csv from the OpenDataBCN website and summarize it statistically and graphically.
+
+Create at least one visualization per:
+
+A categorical variable (District or Neighborhood)
+A numeric variable (Price)
+One numeric variable and one categorical variable (District and Price)
+Two numeric variables (Year or Quarter and Price)
+Three variables (Neighborhood or District, Quarter and Price)
 
 
-Tasca M4 T01
-
-- Exercici 1
-Descarrega el dataset adjunt preu lloguer per trimestre i barri.csv extret de la web OpenDataBCN i resumeix-lo estadísticament i gràficament.
-
-Crea almenys una visualització per:
-
-Una variable categòrica (Districte o Barri)
-Una variable numèrica (Preu)
-Una variable numèrica i una categòrica (Districte i Preu)
-Dues variables numèriques (Any o Trimestre i Preu)
-Tres variables (Barri o Districte, Trimestre i Preu)
+- Exercise 2
+Export the graphs as images or HTML.
 
 
-- Exercici 2
-Exporta els gràfics com imatges o com HTML.
-
-
-
-- Exercici 3
-Proposa alguna visualització que creguis que pot resultar interessant.
+- Exercise 3
+Suggest a visualization that you think could be interesting.
